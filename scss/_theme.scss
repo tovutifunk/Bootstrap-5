@@ -1,0 +1,22 @@
+/* --------------------------------------------------------------------------
+|                               Funk Theme                                    
+/* ------------------------------------------------------------------------- */
+
+// @import "../node_modules/bootstrap/scss/_functions";
+// @import "tovuti/functions";
+// @import "../node_modules/bootstrap/scss/mixins";
+// @import "tovuti/mixins";
+// @import "../node_modules/bootstrap/scss/root";
+// @import 'tovuti/root';
+
+/*-----------------------------------------------
+|   Bootstrap Styles
+-----------------------------------------------*/
+
+@import "bootstrap";
+
+/*-----------------------------------------------
+|   Theme Styles
+-----------------------------------------------*/
+
+@import "tovuti/theme";
